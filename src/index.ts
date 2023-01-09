@@ -1,0 +1,1 @@
+console.log("Bonjour", process.env.NODE_FIRSTNAME, process.env.NODE_LASTNAME, "comment allez vous")
